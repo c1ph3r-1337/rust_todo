@@ -49,7 +49,7 @@ The application is designed as a floating vertical panel with date-based task ma
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rust_todo.git
+git clone https://github.com/c1ph3r-1337/To-Do-List.git
 cd rust_todo
 ```
 
