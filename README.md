@@ -11,6 +11,9 @@ Minimal. Vertical. Glass-styled. Built with Rust.
 
 ## Overview
 
+<img width="498" height="793" alt="image" src="https://github.com/user-attachments/assets/87ed519c-a290-4314-a489-50446c99265f" />
+
+
 Modern TODO is a vertically optimized task manager built using **Rust + GTK4**.  
 It features a translucent glass-style interface and integrates cleanly with Wayland compositors such as **Hyprland**.
 
