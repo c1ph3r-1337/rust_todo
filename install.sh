@@ -31,9 +31,9 @@ StartupWMClass=com.todo.gtk
 EOF
 
 echo "Installing icon (if exists)..."
-if [ -f "assets/icon.png" ]; then
+if [ -f "assets/todolist.png" ]; then
     mkdir -p $ICON_PATH
-    cp assets/icon.png $ICON_PATH/$APP_NAME.png
+    cp assets/todolist.png $ICON_PATH/$APP_NAME.png
     gtk-update-icon-cache ~/.local/share/icons/hicolor || true
 fi
 
